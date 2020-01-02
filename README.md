@@ -1,2 +1,2 @@
 # AIchatbot
-An AI chatbot that uses web data to answer user questions on movies
+A chatbot that uses Natural Language Processing and Neural Networks
